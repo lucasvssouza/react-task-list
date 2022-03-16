@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/license/lucasvssouza/react-task-list.svg"></img>
   </a>
   <a href="">
-   <img src="https://badgen.net/github/releases/lucasvssouza/react-task-list"</img>
+   <img src="https://badgen.net/github/release/lucasvssouza/react-task-list/stable"</img>
   </a>
   <a href="">
    <img src="https://badgen.net/github/stars/lucasvssouza/react-task-list"</img>
