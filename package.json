@@ -1,6 +1,6 @@
 {
   "name": "react-task-list",
-  "version": "v1.1",
+  "version": "v1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
