@@ -10,16 +10,22 @@
   </a>
 </div>
 
-
 # Task List in ReactJS with localstorage
-Projeto 
+<h3 align="center">Create/List Screen</h3>
+<img src="https://user-images.githubusercontent.com/43560204/158681491-89e29760-99eb-41a5-96f9-5a3d31be8ab5.png" />
+<h3 align="center">Edit Screen</h3>
+<img src="https://user-images.githubusercontent.com/43560204/158681616-6ecbcff3-a0c3-4bae-af6f-122b0552c9d5.png" />
+<h3 align="center">Delete Screen</h3>
+<img src="https://user-images.githubusercontent.com/43560204/158682383-cca30b92-2b1f-4841-a22f-d4259562b1fc.png" />
 
-## ReactJS hooks used in the project
+<h2>ReactJS hooks used in the project</h2>
+
 - [useState](https://reactjs.org/docs/hooks-state.html)
 - [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
 - [useEffect](https://reactjs.org/docs/hooks-effect.html)
 - [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
 
-## NPM packages used in the project
+<h2>NPM packages used in the project</h2>
+
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
 - [React Bootstrap](https://react-bootstrap.github.io)
