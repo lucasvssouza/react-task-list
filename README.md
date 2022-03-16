@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/license/lucasvssouza/react-task-list.svg"></img>
   </a>
   <a href="https://github.com/lucasvssouza/react-task-list/releases/tag/v1.0-build">
-   <img src="https://badgen.net/github/release/lucasvssouza/react-task-list/stable"</img>
+   <img src="https://badgen.net/github/release/lucasvssouza/react-task-list"</img>
   </a>
   <a href="">
    <img src="https://badgen.net/github/stars/lucasvssouza/react-task-list"</img>
@@ -15,10 +15,10 @@
 Projeto 
 
 ## ReactJS hooks used in the project
-- [useState](https://pt-br.reactjs.org/docs/hooks-state.html)
-- [useRef](https://pt-br.reactjs.org/docs/hooks-reference.html#useref)
-- [useEffect](https://pt-br.reactjs.org/docs/hooks-effect.html)
-- [useContext](https://pt-br.reactjs.org/docs/hooks-reference.html#usecontext)
+- [useState](https://reactjs.org/docs/hooks-state.html)
+- [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
+- [useEffect](https://reactjs.org/docs/hooks-effect.html)
+- [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
 
 ## NPM packages used in the project
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
