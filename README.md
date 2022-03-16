@@ -26,5 +26,6 @@
 - [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
 
 <h2>NPM packages used in the project</h2>
+
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
 - [React Bootstrap](https://react-bootstrap.github.io)
