@@ -1,0 +1,78 @@
+.addtask {
+  border: 1px solid #555;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+}
+
+.addbutton {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 0px;
+  background-color: white;
+}
+
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.alertHeader {
+  display: auto;
+}
+
+.alertH3 {
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+
+.alertButton {
+  width: 25px;
+  height: 25px;
+  font-size: 15px;
+  border: transparent;
+  padding: 0px;
+  padding-left: 20px;
+  float: right;
+  margin-right: 5px;
+  margin-top: -15px;
+  background-color: transparent;
+}
+
+.alertButton:focus {
+  width: 25px;
+  height: 25px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  color: black;
+  border: 0px;
+  padding: 0px;
+  padding-left: 20px;
+  float: right;
+  margin-right: 5px;
+  margin-top: -15px;
+  background-color: transparent;
+}
+
+.alertP {
+  margin: 0;
+  padding: 0;
+  margin-bottom: -5px;
+}
+
+.addtext {
+  border: 0px;
+  background: transparent;
+  outline: 0;
+  color: #fff;
+  font-size: 18px;
+  flex: 1;
+}
