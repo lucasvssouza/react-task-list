@@ -1,12 +1,12 @@
 <div align="right">
-  <a href="https://github.com/lucas100m/react-task-list/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/lucas100m/react-task-list.svg"></img>
+  <a href="https://github.com/lucasvssouza/react-task-list/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/lucasvssouza/react-task-list.svg"></img>
   </a>
   <a href="">
-   <img src="https://badgen.net/github/release/lucas100m/react-task-list"</img>
+   <img src="https://badgen.net/github/release/lucasvssouza/react-task-list"</img>
   </a>
   <a href="">
-   <img src="https://badgen.net/github/stars/lucas100m/react-task-list"</img>
+   <img src="https://badgen.net/github/stars/lucasvssouza/react-task-list"</img>
   </a>
 </div>
 
