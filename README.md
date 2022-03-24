@@ -18,14 +18,15 @@
 <h3 align="center">Delete Screen</h3>
 <img src="https://user-images.githubusercontent.com/43560204/158682383-cca30b92-2b1f-4841-a22f-d4259562b1fc.png" />
 
-<h2>ReactJS hooks used in the project</h2>
-
+## ReactJS hooks used in the project
 - [useState](https://reactjs.org/docs/hooks-state.html)
 - [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
 - [useEffect](https://reactjs.org/docs/hooks-effect.html)
-- [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
+- [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext) 
 
-<h2>NPM packages used in the project</h2>
-
+## NPM packages used in the project
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
 - [React Bootstrap](https://react-bootstrap.github.io)
+
+## Installation
+     $ npm install
